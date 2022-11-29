@@ -4,6 +4,7 @@ Pour faciliter votre travail, le code HTML, index.html est partagé dans ce rép
 
 Veuillez commencer votre CSS ainsi:
 
+```
 *{
     box-sizing: border-box;
     margin: 0;
@@ -23,29 +24,44 @@ body, html {
     width: 90%;
     margin: 0 auto;
 }
+```
 
-Voici les couleurs utiliséés CI6DESSOUS; Veuillez vous en servir pour votre réalisation du projet.
+Voici les couleurs utiliséés ci-dessous; Veuillez vous en servir pour votre réalisation du projet.
 
-Background - #E4EEF8 ou #FFF
-<a> et <input> - #1F1F1F
-<h6> et <p> - #262729B3
-La bordure du bouton <<Get Started>> - #258AFF
-Bouton <<Subscribe>> - #FA593C
+* Background - #E4EEF8 ou #FFF
+* ``` <a> ``` et ``` <input> ``` - #1F1F1F
+* ``` <h6> ``` et ``` <p> ``` - #262729B3
+* La bordure du bouton "Get Started" - #258AFF
+* Bouton "Subscribe" - #FA593C
 
 Veuillez trouver une description de la structure du site ci-dessous:
 
-* Pour la <nav class="parent-nav">, employez le Flex avec des propriétés et positionnements nécéssaires.
+* Pour la 
+```<nav class="parent-nav"> ```, 
+employez le Flex avec des propriétés et positionnements nécéssaires.
 
-* Pour la <nav class="child-nav">, employez le Flex avec des propriétés et positionnements nécéssaires. 
+* Pour la 
+``` <nav class="child-nav"> ``` 
+employez le Flex avec des propriétés et positionnements nécéssaires. 
     NB: Employez la propriété ```flex-grow: 1``` pour que la barre s'élargisse en largeur.
 
-* Pour le container <ul>, employez le flex.
+* Pour le container 
+``` <ul> ``` 
+employez le flex.
 
-* Pour le <div class="hero-container">, employez le Flex avec des des propriétés et positionnements nécéssaires.
+* Pour le 
+``` <div class="hero-container"> ``` 
+employez le Flex avec des des propriétés et positionnements nécéssaires.
     NB: Employez la propriété ```flex-direction: column``` pour une structure et organisation verticale de ses enfants.
 
-* Pour le <form>,  employez le Flex avec des des propriétés et positionnements nécéssaires.
+* Pour le 
+``` <form> ``` 
+employez le Flex avec des des propriétés et positionnements nécéssaires.
 
-* Pour le <div class="features">, employez le Flex avec des des propriétés et positionnements nécéssaires.
+* Pour le 
+``` <div class="features"> ``` 
+employez le Flex avec des des propriétés et positionnements nécéssaires.
 
-* Pour le <div class="feature">, employez le Flex avec des des propriétés et positionnements nécéssaires.
+* Pour le 
+``` <div class="feature"> ```
+employez le Flex avec des des propriétés et positionnements nécéssaires.
