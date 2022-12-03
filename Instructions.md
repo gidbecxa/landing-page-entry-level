@@ -1,4 +1,7 @@
-Voici le projet 1 de fin de nouveau d'entrée. Il est recommandé que vous réalisiez une reproduction presque parfaite du capture d'écran du site. (nommé <<capture après réalisation>>).
+Voici le projet 1 de fin de nouveau d'entrée. Il est recommandé que vous réalisiez une reproduction presque parfaite du capture d'écran du site. (nommé <<capture après réalisation>>). 
+
+Toutefois, vous pouvez cliquer le lien ci-dessous pour voir le site en live:
+https://638b8b380bb609513732cd13--grow-shades-project.netlify.app/
 
 Pour faciliter votre travail, le code HTML, index.html est partagé dans ce répertoire. Le code source CSS serait partagé dans peu de temps.
 
@@ -58,10 +61,10 @@ employez le Flex avec des des propriétés et positionnements nécéssaires.
 ``` <form> ``` 
 employez le Flex avec des des propriétés et positionnements nécéssaires.
 
-* Pour le 
-``` <div class="features"> ``` 
+* Pour la 
+``` <section class="features"> ``` 
 employez le Flex avec des des propriétés et positionnements nécéssaires.
 
-* Pour le 
-``` <div class="feature"> ```
+* Pour la 
+``` <section class="feature"> ```
 employez le Flex avec des des propriétés et positionnements nécéssaires.
